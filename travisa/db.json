@@ -1,0 +1,101 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Harshad",
+      "email": "harshad@gmail.com",
+      "password": "harsh@12",
+      "status": "unblock"
+    },
+    {
+      "id": "2",
+      "name": "Harsh",
+      "email": "harsh@gmail.com",
+      "password": "harshad@2006",
+      "status": "unblock"
+    },
+    {
+      "id": "3",
+      "name": "Dhruv",
+      "email": "dhruv@gmail.com",
+      "password": "dhruv@2003",
+      "status": "block"
+    }
+  ],
+  "admin": [
+    {
+      "id": "1",
+      "name": "Shubham",
+      "email": "shubham@gmail.com",
+      "password": "8542"
+    },
+    {
+      "id": "1",
+      "name": "Jigar",
+      "email": "jigar@gmail.com",
+      "password": "9090"
+    }
+  ],
+  "feature": [
+    {
+      "id": "1",
+      "title": "Budget-friendly",
+      "img": "https://images.pexels.com/photos/4386321/pexels-photo-4386321.jpeg?_gl=1*1dmyg6v*_ga*MTg4ODcxNzU1My4xNzUwODQ1MDgw*_ga_8JE65Q40S6*czE3NTA4NDUwNzkkbzEkZzEkdDE3NTA4NDUxMTgkajIxJGwwJGgw",
+      "description": "This Visa is made for low budget students...!"
+    }
+  ],
+  "country": [
+    {
+      "id": "1",
+      "title": "DUBAI",
+      "img": "https://images.pexels.com/photos/162031/dubai-tower-arab-khalifa-162031.jpeg?_gl=1*dxld3u*_ga*NjkxMDE2ODg5LjE3NTA0MTcxMDA.*_ga_8JE65Q40S6*czE3NTA5MzI3MjIkbzIkZzEkdDE3NTA5MzI3MzQkajQ4JGwwJGgw",
+      "flag": "https://tse1.mm.bing.net/th?id=OIP.OEIapGWPrM5vjlHU79KhlQHaDt&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "3",
+      "title": "AUSTRALIA",
+      "img": "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?_gl=1*z5dhuv*_ga*NjkxMDE2ODg5LjE3NTA0MTcxMDA.*_ga_8JE65Q40S6*czE3NTA5MzI3MjIkbzIkZzEkdDE3NTA5MzI5NTMkajQ0JGwwJGgw",
+      "flag": "https://tse1.mm.bing.net/th?id=OIP.Al9yN0lfJ3X1Oh91_sTIcAHaEo&pid=Api&P=0&h=180"
+    }
+  ],
+  "coaching": [
+    {
+      "id": "1",
+      "title": "CAREER Coaching",
+      "img": "https://tse2.mm.bing.net/th?id=OIP.olaDFiQXSNLALidXmwBTkgHaE8&pid=Api&P=0&h=180",
+      "desc": "It helps to do coaching for your long and better Future."
+    }
+  ],
+  "service": [
+    {
+      "id": "1",
+      "title": "Family Visa",
+      "desc": "Visiting Abroad for business purposes",
+      "img": "https://tse4.mm.bing.net/th?id=OIP.S2xrVDq_MQG_9lWTlCufGAHaE8&pid=Api&P=0&h=180"
+    },
+    {
+      "id": "2",
+      "title": "Student Visa",
+      "desc": "Visiting Abroad for Study purposes",
+      "img": "https://img.freepik.com/premium-photo/young-smiling-indian-female-student_878783-4772.jpg"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "title": "DUBAI",
+      "phone": "9601119229",
+      "email": "dubaivisa@gmail.com",
+      "address": "123, First Floor, 123 St Roots Terrace,Dubai",
+      "img": "https://images.pexels.com/photos/2041556/pexels-photo-2041556.jpeg?_gl=1*76kpvq*_ga*MTg4ODcxNzU1My4xNzUwODQ1MDgw*_ga_8JE65Q40S6*czE3NTEwMDMyOTckbzIkZzEkdDE3NTEwMDMzMDMkajU0JGwwJGgw"
+    },
+    {
+      "id": "2",
+      "title": "AUSTRALIA",
+      "phone": "8469674694",
+      "email": "australiavisa@gmail.com",
+      "address": "123, First Floor, 123 St Roots Terrace,Australia",
+      "img": "https://images.pexels.com/photos/1878293/pexels-photo-1878293.jpeg?_gl=1*1h39gdj*_ga*MTg4ODcxNzU1My4xNzUwODQ1MDgw*_ga_8JE65Q40S6*czE3NTEwMDMyOTckbzIkZzEkdDE3NTEwMDM0OTEkajQ3JGwwJGgw"
+    }
+  ]
+}
